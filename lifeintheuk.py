@@ -6,7 +6,10 @@ Created on Sat Aug 26 09:49:05 2023
 @author: ahmetozkesek
 """
 
-def fill_qa_from(fname: str)-> dict:
+def fill_qa_from(fname: str)-> tuple:
+	import random
+	import time
+
 	# qas is a dictionary where key=question, value=answers
 	qas = {}
 	with open(fname, encoding="unicode-escape") as lituk:
@@ -28,9 +31,37 @@ def fill_qa_from(fname: str)-> dict:
 				qa = ln[:-1]
 				# empties, then refills the duplicates
 				qas[qa] = [] 
-				
-	return qas		
+	
+	# shuffle the questions
+	random.seed(time.clock_gettime_ns(0))
+	qi = random.sample(list(qas), len(qas)) # population must be a sequence not a dict!!!
 
+	return (qas, qi)		
+
+def lituk_print(qas: dict, qi: list):
+	
+	i = 0
+	ans = {}
+	for q in qi:
+		t = i // 24
+		tq = i % 24
+		if tq == 0:
+			print("\nTest:", t+1)
+			ans = {}
+			
+		print("\nQuestion:", tq + 1, ">", q)
+		j = 0
+		ans[tq+1] = []
+		for a in qas[q]:
+			j += 1
+			print("\t", j, ")", a[4:])
+			if a[0:1] == "A":
+				ans[tq+1].append(a[4:])
+		
+		i += 1
+		if tq == 23:
+			print("\n", ans, "\n")
+		
 def lituk_test(qas: dict, qi: list, ndx: int = 0):
 	import os
 	
@@ -39,10 +70,11 @@ def lituk_test(qas: dict, qi: list, ndx: int = 0):
 	# ask only 24 questions
 	p = ndx * 24
 
-	for q in list(qi)[p : p+24]:
+	for q in qi[p : p+24]:
 		os.system("clear")
 
-		print("Life in the UK Test [", p+1 , "..", p+24, "] /", len(qi), ":\n")
+		print("Life in the UK Test [", p+1 , "/", len(qi) // 24, "]:\n")
+		print("It changes the order of the tests and questions everytime it started again.\n")
 		print("Q->", q)
 		
 		i = 0
@@ -86,21 +118,18 @@ def lituk_test(qas: dict, qi: list, ndx: int = 0):
 		print(t/24, "FAILED")
 	
 if __name__ == "__main__":
-	import random
-	import time
 	
-	qas = fill_qa_from("life-in-the-uk.qa.txt")
+	qas, qi = fill_qa_from("life-in-the-uk.qa.txt")
 	
-	# shuffle the questions
-	random.seed(time.clock_gettime_ns(0))
-	qi = random.sample(list(qas), len(qas)) # population must be a sequence not a dict!!!
-	
+	lituk_print(qas, qi)
+	input("press any key to continue or Ctrl+C to end...")
+		
 	for i in range(len(qas) // 24):
 		lituk_test(qas, qi, i)
 		
 		print("")
 		
-		c = input("press C+Enter for continue, or any other key for finish ->")
+		c = input("press C+Enter for continue, or any key to end ->")
 		if c != "c" and c != "C":
 			break
 
