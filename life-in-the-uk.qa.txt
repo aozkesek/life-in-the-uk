@@ -2300,7 +2300,7 @@ The last battle between Britain and France was the battle of Waterloo.
 A   True
     False
 
-£100 is the highest value note in circulation in the UK.
+\A3100 is the highest value note in circulation in the UK.
 
     True
 A   False
@@ -2528,10 +2528,10 @@ A   He was a musician
 
 Which of the following is not a British banknote?
 
-    £50
-A   £25
-    £20
-    £5
+    \A350
+A   \A325
+    \A320
+    \A35
 
 Where does the Scottish Grand National take place?
 
@@ -2605,3 +2605,648 @@ Does Britain have a written constitution?
 
     Yes
 A   No
+
+Is St Helena part of the UK?
+
+    Yes
+A   No
+
+Where is Theatreland?
+
+    Docklands
+    London's East End
+A   London's West End
+    London's South End
+
+What is the name of the UK currency?
+
+    Euro
+A   Pound Sterling
+    Peso
+    Dollar
+
+What other name is given to Diwali?
+
+A   The Festival of Lights
+    Ash Wednesday
+    Good Friday
+    Easter Monday
+
+What is the Enlightenment?
+
+    A period of total peace in England
+A   A period when new ideas about politics, philosophy and science were developed
+    A period when England became the largest empire the world had ever seen
+    A period of economic recovery after the Second World War
+
+Which of the following charities helps the environment?
+
+    NSPCC
+    Shelter
+A   Friends of the Earth
+    Crisis
+
+Which of the following was a crucial aerial battle fought between Germany and Britain during WWII?
+
+A   The Battle of Britain
+    The Battle of Worcester
+    The Battle of Dunbar
+    The Battle of Marston Moor
+
+What was Margaret Thatcher famous for?
+
+    She fought for the right to vote for women
+A   She was the first woman Prime Minister of the UK
+    She set up the women's Franchise League
+    She was the founder of modern nursing
+
+Which two languages combined to become one English language?
+
+    Latin
+A   Anglo-Saxon
+    Proto-Celtic
+A   Norman French
+
+By law, radio and television coverage of the political parties must be balanced and so equal time has to be given to rival viewpoints.
+
+A   True
+    False
+
+Where did the Spanish Armada come from?
+
+    France
+A   Spain
+    Italy
+    South America
+
+What is the name of the War Memorial located in Whitehall?
+
+    Dumfries
+A   Cenotaph
+    Royal Crescent
+    The White Tower
+
+The UK government has never suspended the Northern Ireland Assembly.
+
+    True
+A   False
+
+What kind of church did Scotland establish in 1560?
+
+    A Catholic church
+A   A Protestant church
+
+When was the Domesday Book written?
+
+    After the Viking invasion
+A   After the Norman conquest
+    After the last Roman invasion
+    After the Anglo-Saxon invasion
+
+The Northern Ireland Assembly cannot make decisions on which two of the following issues?
+
+A   Immigration
+    Education
+    Agriculture
+A   Defence
+
+What should you do to make a complaint about the police (choose two answers)?
+
+    Write a complaint letter to the House of Commons
+A   Go to the Police station directly
+A   Write to the Chief Constable of the police force involved
+    Write to your MP
+
+What flower did William Wordsworth write about?
+
+    Rose
+A   Daffodil
+    Thistle
+    Shamrock
+
+When is St Andrew's day celebrated?
+
+    17th April
+    31st December
+    1st March
+A   30th November
+
+Who was the architect that rebuilt Saint Paul's cathedral after the Great Fire in 1666?
+
+    Robert Adam
+A   Sir Christopher Wren
+    Sir Norman Foster
+    Dame Zaha Hadid
+
+When were the first coins in Britain made?
+
+    The Stone Age
+    The Bronze Age
+A   The Iron Age
+    The Middle Ages
+
+Who was Emmeline Pankhurst?
+
+A   A suffragette
+    A nurse
+    A doctor
+    A scientist
+
+Who did Britain fight against in the Crimean War?
+
+    Turkey
+A   Russia
+    France
+    Germany
+
+How old do you have to be to buy alcohol in the UK?
+
+    17
+A   18
+    19
+    20
+
+Which of the following is a Crown Dependency but not part of the UK?
+
+    Shetland
+    Isle of Wight
+A   Isle of Man
+    Anglesey
+
+Is the BBC controlled by the government?
+
+    Yes
+A   No
+
+How many members does the Northern Ireland Assembly have?
+
+    12
+    60
+A   90
+    108
+
+Who was in charge of the British fleet at the Battle of Trafalgar?
+
+    Oliver Cromwell
+    The Duke of Wellington
+    Robert the Bruce
+A   Admiral Nelson
+
+What was inscribed in the first coins to be minted in Britain during the Iron Age?
+
+A   The names of Iron Age kings
+    The names of Iron Age Gods
+    The names of trees
+    The names of animals
+
+Towns, cities and rural areas in the UK are governed by government appointed officials.
+
+    True
+A   False
+
+Where is the Tate Art Gallery located?
+
+    Glasgow
+    Cardiff
+A   London
+    Belfast
+
+The version of the Bible created by King James I is known as:
+
+A   Authorised version
+    Reformed version
+    Approved version
+    Unique version
+
+What is the period of the 1960s known for?
+
+    A downgrade in manufacturing
+A   A growth in British fashion and pop music
+    A shortage of water
+    A blockage of social laws
+
+Between 1680 and 1720 many refugees called Huguenots came to England, which country did they come from?
+
+    Pakistan
+    Germany
+    India
+A   France
+
+What is the most famous tennis tournament played in the UK?
+
+    The Queen's Club Championships
+A   Wimbledon
+    Roland Garros
+    The Aegon Championships
+
+MPs can only be contacted at their office in the House of Commons.
+
+    True
+A   False
+
+What is the day when jokes are published in newspapers and telecast on TV?
+
+A   April Fool's Day
+    Boxing Day
+    Halloween
+    Valentine's Day
+
+Which Scottish king defeated the English at the Battle of Bannockburn?
+
+    King Charles I
+    King James I
+    Admiral Nelson
+A   Robert the Bruce
+
+Who invented the World Wide Web?
+
+A   Sir Tim Berners-Lee
+    Sir Peter Mansfield
+    Sir Ian Wilmot
+    Sir Robert Edwards
+
+How are civil servants appointed and what political party do they belong to?
+
+    They are chosen on merit and form part of the Liberal Democrats party
+    They are chosen randomly and form part of the Conservative party
+    They are chosen randomly and are politically neutral
+A   They are chosen on merit and are politically neutral
+
+What is known as the "Dunkirk spirit"?
+
+    When the German air force bombed London and other British cities at night-time
+A   The evacuation of Allied soldiers from France during World War II
+    When new social classes appeared after the Black Death
+    The period when many refugees called Huguenots came from France
+
+You have to be at least 21 years old to serve on a jury.
+
+    True
+A   False
+
+If you wish to be a permanent resident or citizen of the UK, you should (choose TWO answers):
+
+A   Respect the rights of others, including their right to their own opinions
+    Buy a house in the UK
+A   Look after yourself and your family
+    Marry a British citizen
+
+Which of the following major sports event took place in the UK in 2012?
+
+    The Football World Cup
+    The Rugby World Cup
+A   The Olympic games
+    The Eurocup Basketball
+
+Charles I believed in the 'Divine Right of Kings' so he tried:
+
+A   To rule without the Parliament
+    To rule with the approval of the Parliament
+    To raise money for the Parliament
+    To restore Catholicism in Britain
+
+What is the Union Jack?
+
+    The Flag of the Commonwealth
+A   The Flag of the United Kingdom
+    The shield used by British Knights
+    A trade union to protect workers rights
+
+Who was voted the greatest Briton of all time in 2002?
+
+    Mo Farah
+    Admiral Nelson
+A   Winston Churchill
+    Clement Attlee
+
+Which of the following statements is true:
+
+A   Women in Britain today make up about half of the workforce.
+    Women in Britain today make up about one quarter of the workforce.
+
+When is St George's day?
+
+    17th March
+    30th November
+    1st March
+A   23rd April
+
+Which is the largest National Park in England?
+
+    Snowdonia
+    Loch Lomond and the Trossachs National Park
+    The Giant's Causeway
+A   The Lake District
+
+Boudicca, was a tribal leader who fought against which foreign invaders?
+
+    The Normands
+    The Vikings
+    The Anglo-Saxons
+A   The Romans
+
+Which of the following poems is about a group of people going on a pilgrimage?
+
+A   The Canterbury Tales
+    All the world's a stage
+    A Midsummer Night's dream
+    Great Expectations
+
+How are public holidays called?
+
+A   Bank Holidays
+    Workers Holidays
+    Business Holidays
+    Summer Holidays
+
+How did Charles II manage to escape to Europe after his defeat in the Civil War?
+
+    Hiding in a farmer's house
+    Riding a horse
+A   Hiding in an oak tree
+    Swimming
+
+Who defeated the Vikings?
+
+    Harold
+    Edward I of England
+    King Arthur
+A   King Alfred the Great
+
+Who was William Caxton?
+
+    A poet who wrote about a group of people going to Canterbury on a pilgrimage
+A   The first person in England to print books using a printing press
+    The first person to sail singlehanded around the world
+    The inventor of the television
+
+Where do Beefeaters serve as tour guides?
+
+    The Houses of the Parliament
+A   The Tower of London
+    The O2
+    The Big Ben
+
+During the rebellion of the clans in Scotland, Bonnie Prince Charlie was supported by clansmen from which Scottish region?
+
+    Glasgow
+    Galloway
+A   Highlands
+    Edinburgh
+
+What religion did Elizabeth I follow?
+
+A   She was a Protestant
+    She was a Catholic
+
+Who became famous for his tramp character in silent movies?
+
+    Sir Rex Harrison
+    David Niven
+    Richard Burton
+A   Charlie Chaplin
+
+Which armed force was used in the Battle of Britain?
+
+    The Royal Navy
+    The Police Force
+    The Naval Service
+A   The Royal Air Force
+
+In the UK, you have to be 21 years old to be able to vote in a general election.
+
+    True
+A   False
+
+Which of the following poets was inspired by nature?
+
+    John Masefield
+    Wilfred Owen
+    Siegfried Sassoon
+A   William Wordsworth
+
+Against which country did Britain fight at the Battle of Waterloo?
+
+    Germany
+    Italy
+A   France
+    Spain
+
+Who was William Wilberforce?
+
+    A poet
+    A sportsman
+A   A politician
+    A musician
+
+Who is the spiritual leader of the Church of England?
+
+A   The Archbishop of Canterbury
+    The Archbishop of London
+    The Archbishop of Birmingham
+    The Archbishop of Manchester
+
+James I was King of which country before becoming King of England?
+
+    Wales
+    Ireland
+    France
+A   Scotland
+
+Which of the following statements is correct?
+
+A   Most shops in the UK open seven days a week.
+    All shops in the UK close on Sundays and bank holidays.
+
+Which country sent a fleet of ships to England in 1588?
+
+    France
+    Germany
+A   Spain
+    Italy
+
+Where is the National Horseracing Museum located?
+
+    Edinburgh, Scotland
+A   Newmarket, Suffolk
+    St Andrews, Scotland
+    Aintree near Liverpool
+
+Which of the following castles is located in Scotland?
+
+A   Crathes Castle
+    Caernarfon Castle
+    Bodiam Castle
+    Powis Castle
+
+Who was a famous Art Deco ceramic designer?
+
+    Alexander McQueen
+    Thomas Chippendale
+A   Clarice Cliff
+    Mary Quant
+
+When is St Patrickâ€™s day celebrated?
+
+    23rd April
+    30th November
+    1st April
+A   17th March
+
+How are the members of the Northern Ireland Parliament elected?
+
+A   By a system of proportional representation
+    Using a system of ranked voting
+    Using the first past the post system
+    Using a runoff system
+
+Who was the first British Prime Minister?
+
+    Winston Churchill
+    Earl of Wilmington
+    Henry Pelham
+A   Sir Robert Walpole
+
+Which of the following actresses has not won an Oscar?
+
+    Tilda Swinton
+A   Emily Watson
+    Dame Judi Dench
+    Kate Winslet
+
+During the Enlightenment, Adam Smith developed ideas about:
+
+    Physics
+A   Economics
+    Science
+    Engineering
+
+Who died at the Battle of Trafalgar?
+
+A   Admiral Nelson
+    Henry VIII
+    Oliver Cromwell
+    Napoleon
+
+When is Hogmanay celebrated?
+
+    25th of December
+    2nd of January
+    1st of January
+A   31st of December
+
+Proceedings in Parliament are broadcast on television and published in official reports known as:
+
+    Canvassing
+A   Hansard
+    Cabinets
+    Domesday Book
+
+Which of the following is a rugby competition?
+
+    The Scottish Grand National
+    The Wimbledon Championships
+    The Ashes
+A   The Six Nations Championship
+
+Who appoints life peers in the House of Lords?
+
+    The Speaker
+    The Archbishop of Canterbury
+    The Prime Minister
+A   The monarch
+
+Who mapped the coast of Australia?
+
+A   James Cook
+    Admiral Nelson
+    Isaac Newton
+    Sake Dean Mahomet
+
+What was the first war to be extensively covered by the media?
+
+    The Boer War
+    The First World War
+    The Second World War
+A   The Crimean War
+
+Which of the following monuments is located in Wiltshire?
+
+    Hadrianâ€™s Wall
+    St Paulâ€™s Cathedral
+    Nelsonâ€™s Column
+A   Stonehenge
+
+Who was the first Archbishop of Canterbury?
+
+    St Patrick
+A   St Augustine
+    St Andrew
+    St Columba
+
+How old do you have to be to go into betting shops or gambling clubs?
+
+A   18
+    20
+    16
+    21
+
+The system of government in the UK is a parliamentary democracy.
+
+A   True
+    False
+
+What is the traditional food of Northern Ireland?
+
+    Haggis
+    Pancakes
+    Paella
+A   Ulster Fry
+
+Who was elected as British Prime Minister in 1945?
+
+A   Clement Attlee
+    Winston Churchill
+    Harold Wilson
+    Harold Macmillan
+
+How many times has the UK hosted the Olympic games?
+
+    5
+A   3
+    4
+    8
+
+Why were canals built during the Industrial Revolution?
+
+A   To link the factories to towns and cities and to the ports
+    To make space for the large fleet of British ships
+    To increase the number of water mills in the UK
+    To increase the amount of water in towns and cities
+
+Are civil servants appointed by the government?
+
+    Yes
+A   No
+
+Which of the following countries helped Britain to develop the Concorde?
+
+    Germany
+    Norway
+    Italy
+A   France
+
+Which invention led to the development of Britain during the Industrial Revolution?
+
+    Magnetic Resonance Imaging
+A   Steam power
+    Radar
+    Hovercraft
+
+Who was the tribal leader who fought against the Romans?
+
+    Columba
+    Claudius
+    Hadrian
+A   Boudicca
+

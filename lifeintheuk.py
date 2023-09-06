@@ -41,26 +41,31 @@ def fill_qa_from(fname: str)-> tuple:
 def lituk_print(qas: dict, qi: list):
 	
 	i = 0
+	que = []
 	ans = {}
 	for q in qi:
 		t = i // 24
 		tq = i % 24
 		if tq == 0:
-			print("\nTest:", t+1)
-			ans = {}
+			que.clear()
+			que.append(f"Test:{t+1}\n\n")
+			ans.clear()
 			
-		print("\nQuestion:", tq + 1, ">", q)
+		que.append(f"Q:{tq+1}> {q}\n")
 		j = 0
 		ans[tq+1] = []
 		for a in qas[q]:
 			j += 1
-			print("\t", j, ")", a[4:])
+			que.append(f"\t{j}) {a[4:]}\n")
 			if a[0:1] == "A":
 				ans[tq+1].append(a[4:])
 		
 		i += 1
 		if tq == 23:
-			print("\n", ans, "\n")
+			with open(f"lituk-test-{t+1}.txt","w") as fd:
+				fd.writelines(que)
+			with open(f"lituk-test-{t+1}-answers.txt","w") as fd:
+				fd.writelines(str(ans))
 		
 def lituk_test(qas: dict, qi: list, ndx: int = 0):
 	import os
@@ -118,12 +123,14 @@ def lituk_test(qas: dict, qi: list, ndx: int = 0):
 		print(t/24, "FAILED")
 	
 if __name__ == "__main__":
+	import sys
 	
 	qas, qi = fill_qa_from("life-in-the-uk.qa.txt")
 	
-	lituk_print(qas, qi)
-	input("press any key to continue or Ctrl+C to end...")
-		
+	if len(sys.argv) > 1 and sys.argv[1] == "print":
+		lituk_print(qas, qi)
+		sys.exit(0)
+			
 	for i in range(len(qas) // 24):
 		lituk_test(qas, qi, i)
 		
