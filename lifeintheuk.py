@@ -78,9 +78,9 @@ def lituk_test(qas: dict, qi: list, ndx: int = 0):
 	for q in qi[p : p+24]:
 		os.system("clear")
 
-		print("Life in the UK Test [", p+1 , "/", len(qi) // 24, "]:\n")
-		print("It changes the order of the tests and questions everytime it started again.\n")
-		print("Q->", q)
+		print(f"Life in the UK Test [{p+1} / {len(qi) // 24}]:\n")
+		print(f"It changes the order of the tests and {len(qi)} questions everytime it started again.\n")
+		print(f"Q->{q}")
 		
 		i = 0
 		for j in qas[q]:
