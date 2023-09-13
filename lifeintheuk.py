@@ -62,11 +62,39 @@ def lituk_print(qas: dict, qi: list):
 		
 		i += 1
 		if tq == 23:
-			with open(f"lituk-test-{t+1}.txt","w") as fd:
+			fname = f"lituk-test-{t+1}"
+			with open(fname+".txt","w") as fd:
 				fd.writelines(que)
-			with open(f"lituk-test-{t+1}-answers.txt","w") as fd:
-				fd.writelines(str(ans))
-		
+
+			with open("lituk-test-a.txt", "a") as fd:
+				fd.writelines("\n\n"+fname+"-answers\n")
+				fd.writelines(str(ans)+"\n")
+			
+			txt2pdf(fname)
+	
+	txt2pdf("lituk-test-a")
+	
+def txt2pdf(fname):
+	import subprocess
+	
+	# convert txt to the ps first
+	cmd = ["enscript", "-p", fname+".ps", "-t Life-In-The-UK", 
+		   "--word-wrap", fname+".txt"]
+	cp = subprocess.run(cmd)
+	if cp.returncode != 0:
+		print("Failed TXT to convert PS!")
+		return
+	
+	# then convert ps to the pdf
+	cmd = ["ps2pdf", fname+".ps", fname+".pdf"]
+	cp = subprocess.run(cmd)
+	if cp.returncode != 0:
+		print("Failed PS to convert PDF!")
+		return
+	
+	# txt and ps are not needed anymore
+	subprocess.run(["rm", fname+".txt", fname+".ps"])
+
 def lituk_test(qas: dict, qi: list, ndx: int = 0):
 	import os
 	
@@ -79,7 +107,7 @@ def lituk_test(qas: dict, qi: list, ndx: int = 0):
 		os.system("clear")
 
 		print(f"Life in the UK Test [{p+1} / {len(qi) // 24}]:\n")
-		print(f"It changes the order of the tests and {len(qi)} questions everytime it started again.\n")
+		print(f"The tests and {len(qi)} questions are shuffle everytime.\n")
 		print(f"Q->{q}")
 		
 		i = 0
