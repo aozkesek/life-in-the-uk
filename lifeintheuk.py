@@ -79,10 +79,9 @@ def write2txt(fname, que, ans):
 			fd.writelines(que[q])
 			fd.writelines(["\n"])
 		
-		fd.writelines(["\n\n++++++++ Answers ++++++++++\n\n"])
-		for a in list(ans):
-			fd.writelines([f"Test {a}\n\n"])
-			fd.writelines([str(ans[a])])
+			fd.writelines(["\n\n++++++++ Answers ++++++++++\n\n"])
+		
+			fd.writelines([str(ans[q])])
 			fd.writelines(["\n\n"])
 		
 
