@@ -39,41 +39,53 @@ def fill_qa_from(fname: str)-> tuple:
 	return (qas, qi)		
 
 def lituk_print(qas: dict, qi: list):
+	fname = "lituk-tests"
 	
 	i = 0
-	que = []
+	que = {}
 	ans = {}
+	
+	# fill each test with 24 questions
 	for q in qi:
 		t = i // 24
 		tq = i % 24
+		
 		if tq == 0:
-			que.clear()
-			que.append(f"Test:{t+1}\n\n")
-			ans.clear()
+			que[t+1] = []
+			ans[t+1] = {}
 			
-		que.append(f"Q:{tq+1}> {q}\n")
+		que[t+1].append(f"\nQ:{tq+1}> {q}\n\n")
 		j = 0
-		ans[tq+1] = []
+		ans[t+1][tq+1] = []
 		for a in qas[q]:
 			j += 1
-			que.append(f"\t{j}) {a[4:]}\n")
+			que[t+1].append(f"\t{j}) {a[4:]}\n")
 			if a[0:1] == "A":
-				ans[tq+1].append(a[4:])
+				ans[t+1][tq+1].append(a[4:])
 		
 		i += 1
-		if tq == 23:
-			fname = f"lituk-test-{t+1}"
-			with open(fname+".txt","w") as fd:
-				fd.writelines(que)
-
-			with open("lituk-test-a.txt", "a") as fd:
-				fd.writelines("\n\n"+fname+"-answers\n")
-				fd.writelines(str(ans)+"\n")
+	
+	write2txt(fname, que, ans)
+	txt2pdf(fname)
+	
+def write2txt(fname, que, ans):
+	
+	with open(fname+".txt", "w") as fd:
+		for q in list(que):
+			fd.writelines(["===========================\n"])
+			fd.writelines([f"Life In The UK Test {q}\n"])
+			fd.writelines(["===========================\n"])
 			
-			txt2pdf(fname)
-	
-	txt2pdf("lituk-test-a")
-	
+			fd.writelines(que[q])
+			fd.writelines(["\n"])
+		
+		fd.writelines(["\n\n++++++++ Answers ++++++++++\n\n"])
+		for a in list(ans):
+			fd.writelines([f"Test {a}\n\n"])
+			fd.writelines([str(ans[a])])
+			fd.writelines(["\n\n"])
+		
+
 def txt2pdf(fname):
 	import subprocess
 	
