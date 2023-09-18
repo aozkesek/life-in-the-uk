@@ -166,9 +166,14 @@ if __name__ == "__main__":
 	
 	qas, qi = fill_qa_from("life-in-the-uk.qa.txt")
 	
-	if len(sys.argv) > 1 and sys.argv[1] == "print":
-		lituk_print(qas, qi)
-		sys.exit(0)
+	if len(sys.argv) > 1:
+		if sys.argv[1] == "print":
+			lituk_print(qas, qi)
+			sys.exit(0)
+		elif sys.argv[1] == "dump":
+			for q in list(qas):
+				print(q)
+			sys.exit(0)
 			
 	for i in range(len(qas) // 24):
 		lituk_test(qas, qi, i)
