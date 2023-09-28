@@ -932,13 +932,6 @@ Several Church of England bishops sit in the House of Lords?
 A   True
     False
 
-When walking your dog in a public place, you must ensure?
-
-    That your dog does not play with other dogs
-A   That your dog wears a collar showing the name and address of the owner
-    That your dog wears a high visibility jacket
-    That your dog does not bark
-
 When did Ireland become a republic?
 
     1925
@@ -2333,13 +2326,6 @@ What is "the Proms"?
 A   An eight-week summer season of daily orchestral classical music concerts
     Light-hearted plays with music and comedy
 
-What was Isaac Newton known for?
-
-    The discovery of insulin
-A   The discovery of gravity
-    The discovery of penicillin
-    The discovery of steam power
-
 When did the WWI come to an end?
 
     In 1922
@@ -2779,13 +2765,6 @@ Which of the following statements is correct?
 
 A   Most shops in the UK open seven days a week.
     All shops in the UK close on Sundays and bank holidays.
-
-Which country sent a fleet of ships to England in 1588?
-
-    France
-    Germany
-A   Spain
-    Italy
 
 Where is the National Horseracing Museum located?
 
@@ -3838,13 +3817,6 @@ Which is an example of a Civil Offence?
 A   Discrimination in the workplace
     Smoking in public places
 
-Who developed a radar?
-
-    Mary Peters
-A   Sir Robert Watson-Watt
-    Patrick Steptoe
-    James Goodfellow
-
 Who first introduced James Bond?
 
 A   Ian Fleming
@@ -4047,13 +4019,6 @@ A   1837
     1845
     1877
     1861
-
-What were the refugees that came from France called?
-
-    Roundheads
-A   Huguenots
-    Cavaliers
-    Jacobites
 
 What were the Canterbury Tales about?
 
@@ -4611,4 +4576,167 @@ A   Make a SORN (an off-road-notice)
     Pay a reduced tax
     Pay more tax
 
-https://lifeintheuktests.co.uk/life-in-the-uk-test/?test=13
+Hereditary peers in the House of Lords lost their automatic right to attend in 1999.
+
+A   True
+    False
+
+Which TWO types of literature is William Shakespeare famous?
+
+    Nowels
+A   Plays
+    Biografies
+A   Sonnets
+
+Which TWO are English Civil War battles?
+
+    Waterloo
+A   Marston Moor
+    Hastings
+A   Naseby
+
+What were the names of the TWO main groups in Parliment in the early 18th century?
+
+A   Whigs
+    Labour
+    Nationalist
+A   Tories
+
+People lived in the roundhouses and buried their dead in tombs, round barrows, during the Bronze Age.
+
+A   True
+    False
+
+The public can listen to debates in both HoC and HoL from public galeries.
+
+    False
+A   True
+
+The Man Booker Prize for Fiction is awarded annually for the best written by an author from which countries?
+
+A   The Commonwealth, Ireland or Zimbabwe
+    The European Union
+    The Commontwealth, the USA or Australia
+    The European Union, Canada or the USA
+
+Who was the leader of the English Republic?
+
+    King Richard III
+A   Oliver Cromwell
+    Charles I
+    Charles II
+
+When was the Brexit Referandum held?
+
+    23rd June 2015
+    13th July 2015
+A   23rd June 2016
+    13th July 2016
+
+Who introduced the Statute of Rhuddlan by which Wales was annexed to the Crown of England in 1284?
+
+A   King Edward I of England
+    Robert the Bruce
+    King Henry V
+    William III of England
+
+Who was known as the Iron Duke?
+
+    The Duke of Edinburgh
+    The Duke of Normandy
+A   The Duke of Wellington
+    The Duke of Lancaster
+
+Which of the following is NOT a British invention?
+
+    The World Wide Web
+    The Turing machine
+    The hovercraft
+A   The mobile phone
+
+Which court usually deals with serious criminal cases in Scotland?
+
+A   The Sheriff Court
+    The Crown Court
+    The High Court
+    The Magistrates’ Court
+
+When did Alexander Fleming win the Nobel Prize in medicine for the discovery of the penicillin?
+
+    In 1935
+A   In 1945
+    In 1950
+    In 1952
+
+What is Sir Jackie Stewart famous for?
+
+    He captained the English football team that won the World Cup in 1966
+    He captained the English cricket team
+A   He won the Formula 1 world championship three times
+    He won gold medals in rowing in five consecutive Olympic Games
+
+When did Britain and France develop the world’s only supersonic commercial airliner known as ‘The Concorde’?
+
+    1970s
+    1950s
+    1980s
+A   1960s
+
+Which was the first major railway built in Britain?
+
+    High Speed 1
+    West Coast Main Line
+A   Great Western Railway
+    East London Line
+
+In the 15th century, Henry Tudor, the leader of the House of Lancaster, became:
+
+    King Henry VIII
+    King Richard I
+    King Richard III
+A   King Henry VII
+
+How many senior MPs are appointed by the Prime Minister?
+
+    Less than 10
+    About 15
+A   About 20
+    More than 25
+
+Who won an Olympic gold medal in the pentathlon in 1972?
+
+    Sir Ian Botham
+A   Mary Peters
+    Dame Kelly Holmes
+    Jessica Ennis
+
+The Brith Awards is an event where musicians ang music groups are awarded.
+
+A   True
+    False
+
+The Restoration refers to the re-establishment of the monarchy in 1660, when Charles II return from exile after being invited back by the parliment.
+
+A   True
+    False
+
+Gilbert and Sullivan wrote comic operas such as HMS Pinafore, The Pirates of Penzance and The Mikado.
+
+A   True
+    False
+
+Wales united with England during the the reign of Henry VIII.
+
+A   True
+    False
+
+Charles, King of Scotlond, was restored as King Charles II of England in 1660.
+
+A   True
+    False
+
+The Troubles were about Disagreement over Ireland becoming one country.
+
+A   True
+    False
+
