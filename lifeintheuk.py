@@ -6,7 +6,7 @@ Created on Sat Aug 26 09:49:05 2023
 @author: ahmetozkesek
 """
 
-def fill_qa_from(fname: str)-> tuple:
+def __fill_qa_from(fname: str)-> tuple:
 	import random
 	import time
 
@@ -38,7 +38,7 @@ def fill_qa_from(fname: str)-> tuple:
 
 	return (qas, qi)		
 
-def lituk_print(qas: dict, qi: list):
+def __lituk_print(qas: dict, qi: list):
 	fname = "lituk-tests"
 	
 	i = 0
@@ -65,10 +65,10 @@ def lituk_print(qas: dict, qi: list):
 		
 		i += 1
 	
-	write2txt(fname, que, ans)
-	txt2pdf(fname)
+	__write2txt(fname, que, ans)
+	__txt2pdf(fname)
 	
-def write2txt(fname, que, ans):
+def __write2txt(fname, que, ans):
 	
 	with open(fname+".txt", "w") as fd:
 		for q in list(que):
@@ -85,7 +85,7 @@ def write2txt(fname, que, ans):
 			fd.writelines(["\n\n"])
 		
 
-def txt2pdf(fname):
+def __txt2pdf(fname):
 	import subprocess
 	
 	# convert txt to the ps first
@@ -106,7 +106,7 @@ def txt2pdf(fname):
 	# txt and ps are not needed anymore
 	subprocess.run(["rm", fname+".txt", fname+".ps"])
 
-def lituk_test(qas: dict, qi: list, ndx: int = 0):
+def __lituk_test(qas: dict, qi: list, ndx: int = 0):
 	import os
 	
 	# ai is a list of tuples of true and false answers (True/False, Question)
@@ -161,22 +161,40 @@ def lituk_test(qas: dict, qi: list, ndx: int = 0):
 	else:
 		print(t/24, "FAILED")
 	
+def __lituk_distance(qas):
+	import textdistance.algorithms.edit_based as td
+
+	i = 0
+	sqas = sorted(list(qas))
+	for q in sqas:
+		print(q)
+		i = i + 1
+		subqas = sqas[i:]
+		for t in subqas:
+			res = td.hamming(q,t)
+			if res < 15:
+				print("\t", res, t)
+	
+
 if __name__ == "__main__":
 	import sys
 	
-	qas, qi = fill_qa_from("life-in-the-uk.qa.txt")
+	qas, qi = __fill_qa_from("life-in-the-uk.qa.txt")
 	
 	if len(sys.argv) > 1:
 		if sys.argv[1] == "print":
-			lituk_print(qas, qi)
+			__lituk_print(qas, qi)
 			sys.exit(0)
 		elif sys.argv[1] == "dump":
-			for q in list(qas):
+			for q in sorted(list(qas)):
 				print(q)
+			sys.exit(0)
+		elif sys.argv[1] == "dist":
+			__lituk_distance(qas)
 			sys.exit(0)
 			
 	for i in range(len(qas) // 24):
-		lituk_test(qas, qi, i)
+		__lituk_test(qas, qi, i)
 		
 		print("")
 		
