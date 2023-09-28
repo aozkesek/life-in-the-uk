@@ -5,9 +5,12 @@ test.
 
 ## Requirements
 
+Application and libraries fo running the exam are; 
+
 1. **Python**: must have
 2. **enscript**: optional, print only
 3. **ps2pdf**: optional, print only
+4. **textdistance**: optional, dist only
 
 ## Install
 
@@ -20,7 +23,15 @@ use print feature for create a PDF file of exam.
 
 Open a terminal, change the current folder where script is, then run 
 
-**python lifeintheuk.py [print]**
+**python lifeintheuk.py [print|dump|dist]**
 
-It creates a **lituk-test.pdf** PDF file when you run it with **print** argument.
+Command line arguments -use only one at a time- 
+
+**print**: creates a **lituk-test.pdf** PDF file.
+
+**dump**: shows list of the questions in ordered.
+
+**dist**: shows similiar questions to avoid dublicates
+
+**NO-ARG-**: starts exam(s) 
  
