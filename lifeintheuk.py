@@ -34,7 +34,8 @@ def __fill_qa_from(fname: str)-> tuple:
 	
 	# shuffle the questions
 	random.seed(time.clock_gettime_ns(0))
-	qi = random.sample(list(qas), len(qas)) # population must be a sequence not a dict!!!
+	# FIX: population must be a sequence not a dict!!!
+	qi = random.sample(list(qas), len(qas)) 
 
 	return (qas, qi)		
 
@@ -45,7 +46,7 @@ def __lituk_print(qas: dict, qi: list):
 	que = {}
 	ans = {}
 	
-	# fill each test with 24 questions
+	# fill each test with a set of 24 questions
 	for q in qi:
 		t = i // 24
 		tq = i % 24
@@ -103,15 +104,15 @@ def __txt2pdf(fname):
 		print("Failed PS to convert PDF!")
 		return
 	
-	# txt and ps are not needed anymore
+	# txt and ps are not needed anymore, remove them
 	subprocess.run(["rm", fname+".txt", fname+".ps"])
 
 def __lituk_test(qas: dict, qi: list, ndx: int = 0):
 	import os
 	
-	# ai is a list of tuples of true and false answers (True/False, Question)
+	# ai holds answers (True/False, Question)
 	ai = []
-	# ask only 24 questions
+	# ask only a set of 24 questions
 	p = ndx * 24
 
 	for q in qi[p : p+24]:
@@ -155,13 +156,14 @@ def __lituk_test(qas: dict, qi: list, ndx: int = 0):
 			print(i)
 			for j in qas[i[1]]:
 				print("\t", j)
-		
+	# yo have to get right at least 75% correct to PASS the exam.
 	if t / 24 >= 0.75:
-		print(t/24, "PASSED.")
+		print(t, "C,", 24-t, "W > PASSED.")
 	else:
-		print(t/24, "FAILED")
+		print(t, "C,", 24-t, "W > FAILED")
 	
 def __lituk_distance(qas):
+	# pick one of the basic algo 
 	import textdistance.algorithms.edit_based as td
 
 	i = 0
@@ -169,9 +171,11 @@ def __lituk_distance(qas):
 	for q in sqas:
 		print(q)
 		i = i + 1
+		# skip the ones we already looked in the previous iteration
 		subqas = sqas[i:]
 		for t in subqas:
 			res = td.hamming(q,t)
+			# a score of 1 is 100% same, the bigger result the different
 			if res < 15:
 				print("\t", res, t)
 	
@@ -184,14 +188,14 @@ if __name__ == "__main__":
 	if len(sys.argv) > 1:
 		if sys.argv[1] == "print":
 			__lituk_print(qas, qi)
-			sys.exit(0)
 		elif sys.argv[1] == "dump":
 			for q in sorted(list(qas)):
 				print(q)
-			sys.exit(0)
 		elif sys.argv[1] == "dist":
 			__lituk_distance(qas)
-			sys.exit(0)
+		else:
+			print("usage:\n\n\tpython lifeintheuk.py [print|dump|dist]")
+		sys.exit(0)
 			
 	for i in range(len(qas) // 24):
 		__lituk_test(qas, qi, i)
