@@ -17,17 +17,18 @@ Application and libraries fo running the exam are;
 Copy **lifeintheuk.py** and **life-in-the-uk.qa.txt** files under same folder.
 
 Depend on the Linux distro you are using, install *enscript* and *ps2pdf* to 
-use print feature for create a PDF file of exam.
+use print feature for create a PDF file of exams, install **python3-textdistance**
+for detecting duplicates -or similiars-.
 
 ## Usage
 
-Open a terminal, change the current folder where script is, then run 
+Open a terminal, change the current folder to where script is, then run this; 
 
 **python lifeintheuk.py [print|dump|dist]**
 
 Command line arguments -use only one at a time- 
 
-**print**: creates a **lituk-test.pdf** PDF file.
+**print**: creates a **lituk-test.pdf** PDF file within full exams.
 
 **dump**: shows list of the questions in ordered.
 
