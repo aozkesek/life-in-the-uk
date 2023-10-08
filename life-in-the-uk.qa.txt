@@ -75,7 +75,7 @@ When is Boxing Day?
     The day before Christmas Day
 A   The day after Christmas Day
 
-Which country's flag is not part of the Union Flag?
+Which countrys flag is not part of the Union Flag?
 
     England
 A   Wales
@@ -96,7 +96,7 @@ When did the Roman army leave Britain?
     AD 43
 A   AD 410
 
-Who was one of the founders of England's naval tradition?
+Who was one of the founders of Englands naval tradition?
 
     Oliver Cromwell
 A   Sir Francis Drake
@@ -250,7 +250,7 @@ A   Prince Philip
     Prince Harry
     Prince William
 
-When is St David's day?
+When is St Davids day?
 
     30th of November
 A   1st of March
@@ -276,7 +276,7 @@ Which of these UK landmarks is in Wales?
     The Lake District
 A   Snowdonia
     Loch Lomond
-    The Giant's Causeway
+    The Giants Causeway
 
 Which of the following is part of the UK?
 
@@ -362,7 +362,7 @@ A   Speak and read English
     Have a driving license
     Be able to use computers in English
 
-Hadrian's Wall is a popular UNESCO World Heritage Site?
+Hadrians Wall is a popular UNESCO World Heritage Site?
 
 A   True
     False
@@ -383,9 +383,9 @@ A   Edinburgh
 
 What did the "Bill of Rights" confirm?
 
-A   Parliament's increased power
+A   Parliaments increased power
     Kings can administer justice
-    King's increased power
+    Kings increased power
     Kings can collect taxes
 
 Where in Scotland is known as the home of golf?
@@ -397,10 +397,10 @@ A   St Andrews
 
 What is the money limit for the small claims procedure in England and Wales?
 
-    1€75,000
-A   1€710,000
-    1€76,000
-    1€74,000
+    5,000
+A   10,000
+    6,000
+    4,000
 
 When do pubs usually open?
 
@@ -444,7 +444,7 @@ What is known as Lent?
     The 40 days after Christmas
 A   The 40 days before Easter
 
-What is the monarch's ceremonial role?
+What is the monarchs ceremonial role?
 
     Travelling abroad for banquets and to negotiate with foreign dignitaries
 A   Opening a parliamentary session
@@ -496,7 +496,7 @@ A   The nobility and great landowners
 What did Henry VII do?
 
 A   Reduced the power of the nobles
-    Restricted King's power
+    Restricted Kings power
     Increased the power of the nobles
     Broke away from the Church of Rome
 
@@ -549,7 +549,7 @@ Where can you find the ship HMS Victory now?
 A   Portsmouth
     London
 
-Which of these are 'Crown Dependencies'?
+Which of these are Crown Dependencies?
 
     St Helena and Wales
 A   The Channel Islands and the Isle of Man
@@ -642,7 +642,7 @@ A   Weekly
 
 How long can you use an EU driving licence for?
 
-A   As long as it's valid
+A   As long as its valid
     12 months
     5 years
     2 years
@@ -654,7 +654,7 @@ A   The Iron age
     The Gold age
     The Middle ages
 
-When is Valentine's Day?
+When is Valentines Day?
 
     23rd of April
     16th of December
@@ -689,7 +689,7 @@ A   King Charles III
     Prince Philip
     The Prime Minister
 
-What's the age requirement to drink wine with a meal with someone over 18?
+Whats the age requirement to drink wine with a meal with someone over 18?
 
     18
     21
@@ -780,13 +780,6 @@ A   1400
     1502
     1554
 
-Who wrote "The Lord of the Rings"?
-
-A   JRR Tolkien
-    Ian Fleming
-    J K Rowling
-    Charles Dickens
-
 When were the women given the right to vote at the same age as men?
 
     1969
@@ -829,7 +822,7 @@ A   1966
     1970
     1974
 
-Where can you get help if you can't afford to pay a vet?
+Where can you get help if you cant afford to pay a vet?
 
     Family
     Your vet
@@ -873,7 +866,7 @@ A   56
 
 Who was the first Danish King?
 
-A   Cnut also 'Canute'
+A   Cnut also Canute
     Harold
     William
     Kenneth MacAlpin
@@ -939,7 +932,7 @@ When did Ireland become a republic?
 A   1949
     1927
 
-Who was an important contributor to the 'pop art' movement of the 1960's?
+Who was an important contributor to the pop art movement of the 1960s?
 
 A   David Hockney
     Lucian Freud
@@ -970,7 +963,7 @@ A   1215
 Which of the following plays was written by William Shakespeare?
 
     Pride and Prejudice
-A   A Midsummer Night's dream
+A   A Midsummer Nights dream
     Sense and Sensibility
     Great Expectations
 
@@ -995,7 +988,7 @@ What is Good Friday?
 A   The day when Jesus Christ died
     The day when Jesus Christ became 30 years old
 
-St Patrick's day is a public holiday in Northern Ireland.
+St Patricks day is a public holiday in Northern Ireland.
 
 A   True
     False
@@ -1032,7 +1025,7 @@ Which court deals with minor criminal cases in England, Wales and Northern Irela
 
     High Court
     Justice of the Peace Court
-A   Magistrates' Court
+A   Magistrates Court
     Crown Court
 
 What did the Scottish John Logie Baird develop?
@@ -1145,8 +1138,8 @@ A   A poll card
 
 Which of the following statements is correct?
 
-A   Solicitors' charges are usually based on how much time they spend on a case
-    Solicitors' charges are usually based on the nature of a case and its importance
+A   Solicitors charges are usually based on how much time they spend on a case
+    Solicitors charges are usually based on the nature of a case and its importance
 
 By law, which TWO types of media have to give a balanced coverage of all political parties and equal time to rival viewpoints before an election?
 
@@ -1169,7 +1162,7 @@ What did Sir Frank Whittle invent in the 1930s?
 A   Jet engine
     Ballpoint pen
 
-Who wrote 'The Daffodils'?
+Who wrote The Daffodils?
 
     William Blake
     Robert Browning
@@ -1197,7 +1190,7 @@ Which of the following is a fundamental principle of British life?
 A   Individual liberty
     Inequity
 
-How is New Year's Eve called in Scotland?
+How is New Years Eve called in Scotland?
 
     Vaisakhi
     Hannukah
@@ -1237,14 +1230,14 @@ It is compulsory for 16 and 17-year-olds to join the National Citizen Service pr
     True
 A   False
 
-What is the name of the tour guides that tell visitors stories about the Tower of London's history?
+What is the name of the tour guides that tell visitors stories about the Tower of Londons history?
 
     Knights
     Chartists
     Suffragettes
 A   Beefeaters
 
-Which two countries developed the Concorde, the world's only supersonic commercial airliner?
+Which two countries developed the Concorde, the worlds only supersonic commercial airliner?
 
     Italy
 A   Britain
@@ -1293,7 +1286,7 @@ A   Theatreland
 
 Which two of the following are key roles of school governors?
 
-    Monitoring student's behaviour
+    Monitoring students behaviour
 A   Monitoring and evaluating school performance
 A   Setting the strategic direction of the school
     Giving awards to the best students of the school
@@ -1312,7 +1305,7 @@ When did the Black Death take place?
 A   The Middle Ages
     The Iron Age
 
-Who was the leader of the suffragettes, the group that campaigned for women's rights to vote?
+Who was the leader of the suffragettes, the group that campaigned for womens rights to vote?
 
     Queen Victoria
     Oliver Cromwell
@@ -1488,10 +1481,10 @@ A   March or April
 
 Which of the following is not a valid UK coin?
 
-    1p
-    5p
-A   25p
-    1€71
+    1penny
+    5pence
+A   25pence
+    10pence
 
 Where is the Eden Project located?
 
@@ -1535,10 +1528,10 @@ A   Scotland
 
 When do the television and newspapers have stories that are jokes until midday?
 
-    Valentine's Day
+    Valentines Day
     Boxing Day
     Halloween
-A   April Fool's Day
+A   April Fools Day
 
 What king was defeated by Oliver Cromwell during the Civil War and hid in an oak tree before escaping to Europe?
 
@@ -1575,8 +1568,8 @@ A   The Enlightenment
 
 Which of the following statements is TRUE?
 
-    Mary Stuart ('Mary, Queen of Scots') was a Protestant
-A   Mary Stuart ('Mary, Queen of Scots') was a Catholic
+    Mary Stuart (Mary, Queen of Scots) was a Protestant
+A   Mary Stuart (Mary, Queen of Scots) was a Catholic
 
 Which of the following is an example of civil law?
 
@@ -1587,12 +1580,12 @@ A   Discrimination in the workplace
 
 William of Orange was asked by Protestants to invade England and proclaim himself king. But, when William reached England, there was no resistance and he took over the throne. This event was later Known as?
 
-A   The 'Glorious Revolution'
+A   The Glorious Revolution
     The Restoration
-    The 'Great Depression'
-    The 'Blitz'
+    The Great Depression
+    The Blitz
 
-What sort of charity is 'Friends of the Earth'?
+What sort of charity is Friends of the Earth?
 
 A   An environmental charity
     A medical research charity
@@ -1604,13 +1597,6 @@ If a husband forces his wife to have sex he can be charged with rape?
 A   True
     False
 
-In which country of the British Empire did the Boer War (1899-1902) take place?
-
-    Netherlands
-    Falkland Islands
-    Gibraltar
-A   South Africa
-
 Which of the following actions is known as "canvassing"?
 
     Donating blood to help people
@@ -1618,7 +1604,7 @@ Which of the following actions is known as "canvassing"?
     Caring for animals at a local rescue shelter
 A   Persuading people to vote for a political party
 
-Which novel written by JRR Tolkien was voted the country's best-loved novel in 2003?
+Which novel written by JRR Tolkien was voted the countrys best-loved novel in 2003?
 
     Oliver Twist
     James Bond
@@ -1658,7 +1644,7 @@ Northern Ireland has its own established church?
     True
 A   False
 
-How often are 'Prime Minister's Questions' held in the parliament?
+How often are Prime Ministers Questions held in the parliament?
 
     Every day
 A   Every week
@@ -1693,19 +1679,19 @@ Who was reigning in England when English settlers first began to colonise the ea
 A   Elizabeth I
     Charles II
 
-Scotland and Wales use a system called 'individual registration' where all those entitled to vote must complete their own registration form?
+Scotland and Wales use a system called individual registration where all those entitled to vote must complete their own registration form?
 
     True
 A   False
 
 On what day is the birth of Jesus Christ celebrated?
 
-    Father's Day
+    Fathers Day
 A   Christmas Day
     New Year
     Boxing Day
 
-What sort of battle was the 'Battle of Britain', fought between Germany and Britain in the summer of 1940?
+What sort of battle was the Battle of Britain, fought between Germany and Britain in the summer of 1940?
 
     A battle in the sea
 A   An aerial battle
@@ -1750,7 +1736,7 @@ A   Scotland
 Which court deals with minor criminal offences in Scotland?
 
     The Sheriff Court
-    The Magistrates' Court
+    The Magistrates Court
     The Crown Court
 A   The Justice of the Peace Court
 
@@ -1761,7 +1747,7 @@ A   The Domesday Book
 A   The Bayeux Tapestry
     The Canterbury Tales
 
-In 1913, the British government promised 'Home Rule' for Ireland, why were changes in Ireland delayed until 1921?
+In 1913, the British government promised Home Rule for Ireland, why were changes in Ireland delayed until 1921?
 
 A   Due to the outbreak of the First World War
     Due to the outbreak of the Second World War
@@ -1851,7 +1837,7 @@ In 1833 the Emancipation Act abolished slavery throughout the British Empire?
 A   True
     False
 
-What is the name of the process by which many Scottish landlords destroyed individual small farms (known as 'crofts') to make space for large flocks of sheep and cattle?
+What is the name of the process by which many Scottish landlords destroyed individual small farms (known as crofts) to make space for large flocks of sheep and cattle?
 
     The Black Death
     The Corn Removal
@@ -1865,14 +1851,14 @@ A   The Battle of Marston Moor
 A   The Battle of Naseby
     The Battle of Agincourt
 
-What was the name of the activist group who fought for the women's right to vote?
+What was the name of the activist group who fought for the womens right to vote?
 
     Chartists
     Beefeaters
 A   Suffragettes
     Quakers
 
-What UK landmark was voted as Britain's favourite view in 2007?
+What UK landmark was voted as Britains favourite view in 2007?
 
     The Big Ben
 A   Lake District
@@ -1973,12 +1959,12 @@ Is Northern Ireland part of Great Britain?
     Yes
 A   No
 
-If you are a dog owner, which two things should your dog's collar have when you go out for a walk?
+If you are a dog owner, which two things should your dogs collar have when you go out for a walk?
 
-A   The owner's address
-A   The owner's name
-    The dog's breed
-    The dog's name
+A   The owners address
+A   The owners name
+    The dogs breed
+    The dogs name
 
 What day relates to the death of Jesus Christ?
 
@@ -1996,10 +1982,10 @@ A   Constituency
 
 What was achieved with the Magna Carta?
 
-A   It restricted the King's power
-    It increased the King's power
+A   It restricted the Kings power
+    It increased the Kings power
     It restricted the rights of the farmers
-    It increased women's power
+    It increased womens power
 
 Female genital mutilation (FGM) or taking a girl or woman abroad for FGM is illegal in the UK and it is a criminal offence?
 
@@ -2030,7 +2016,7 @@ A   The Spanish Armada
 Who designed the Cenotaph?
 
     Sir Norman Foster
-    Lancelot 'Capability' Brown
+    Lancelot Capability Brown
 A   Sir Edwin Lutyens
     Isambard Kingdom Brunel
 
@@ -2093,14 +2079,7 @@ Where is the Lake District National Park located?
 A   England
     Northern Ireland
 
-Who was born in Stratford-upon-Avon?
-
-    Jane Austen
-    Charles Dickens
-A   William Shakespeare
-    Thomas Hardy
-
-Why is 1928 an important year in women's voting history?
+Why is 1928 an important year in womens voting history?
 
     Women were given the right to vote at the age of 18, the same as men.
     Women were given the right to vote at the age of 25.
@@ -2110,9 +2089,9 @@ A   Women were given the right to vote at the age of 21, the same as men.
 What does Hogmanay refer to?
 
     Christmas Day in Wales
-A   New Year's Eve in Scotland
+A   New Years Eve in Scotland
     Christmas Day in Scotland
-    New Year's Eve in Wales
+    New Years Eve in Wales
 
 What is the capital city of Northern Ireland?
 
@@ -2128,7 +2107,7 @@ A   The Boer War
     The First World War
     The Crimean War
 
-Northern Ireland uses a system called 'individual registration' and all those entitled to vote must complete their own registration form.
+Northern Ireland uses a system called individual registration and all those entitled to vote must complete their own registration form.
 
 A   True
     False
@@ -2163,9 +2142,9 @@ A   A British officer in charge of the British fleet at the Battle of Trafalgar 
 
 During the Middle Ages, who were the serfs?
 
-A   Peasants who had a small area of their lord's agricultural land
+A   Peasants who had a small area of their lords agricultural land
     Soldiers who fought at the Battle of Trafalgar
-    Noblemen who formed part of the king's council of advisers
+    Noblemen who formed part of the kings council of advisers
     A group of skilled people from Holland who came to England during the Middle Ages
 
 MPs can only be contacted by post.
@@ -2187,7 +2166,7 @@ What English King introduced the Domesday Book?
 A   William the Conqueror
     Harold, the Saxon king of England
 
-What did 'the Butler Act'  introduce in 1944?
+What did the Butler Act  introduce in 1944?
 
     Free primary education in England, Wales and Scotland
     Free university fees in England, Wales, Scotland and Northern Ireland
@@ -2255,10 +2234,10 @@ A   In recognition of the contribution women made to the war effort during the F
 
 What do you need to drive in the UK?
 
-    An 'L' plate
+    An L plate
     A National Insurance Number
 A   A valid driving licence
-    An 'R' plate
+    An R plate
 
 How many members does the Welsh government have?
 
@@ -2281,10 +2260,10 @@ A   He was a musician
 
 Which of the following is not a British banknote?
 
-    \A350
-A   \A325
-    \A320
-    \A35
+    50
+A   25
+    20
+    5
 
 Where does the Scottish Grand National take place?
 
@@ -2360,9 +2339,9 @@ A   No
 Where is Theatreland?
 
     Docklands
-    London's East End
-A   London's West End
-    London's South End
+    Londons East End
+A   Londons West End
+    Londons South End
 
 What is the name of the UK currency?
 
@@ -2453,7 +2432,7 @@ A   Daffodil
     Thistle
     Shamrock
 
-When is St Andrew's day?
+When is St Andrews day?
 
     17th April
     31st December
@@ -2542,7 +2521,7 @@ A   France
 
 What is the most famous tennis tournament played in the UK?
 
-    The Queen's Club Championships
+    The Queens Club Championships
 A   Wimbledon
     Roland Garros
     The Aegon Championships
@@ -2554,10 +2533,10 @@ A   False
 
 What is the day when jokes are published in newspapers and telecast on TV?
 
-A   April Fool's Day
+A   April Fools Day
     Boxing Day
     Halloween
-    Valentine's Day
+    Valentines Day
 
 Which Scottish king defeated the English at the Battle of Bannockburn?
 
@@ -2606,7 +2585,7 @@ Which of the following major sports event took place in the UK in 2012?
 A   The Olympic games
     The Eurocup Basketball
 
-Charles I believed in the 'Divine Right of Kings' so he tried:
+Charles I believed in the Divine Right of Kings so he tried:
 
 A   To rule without the Parliament
     To rule with the approval of the Parliament
@@ -2632,7 +2611,7 @@ Which of the following statements is true:
 A   Women in Britain today make up about half of the workforce.
     Women in Britain today make up about one quarter of the workforce.
 
-When is St George's day?
+When is St Georges day?
 
     17th March
     30th November
@@ -2643,7 +2622,7 @@ Which is the largest National Park in England?
 
     Snowdonia
     Loch Lomond and the Trossachs National Park
-    The Giant's Causeway
+    The Giants Causeway
 A   The Lake District
 
 Boudicca, was a tribal leader who fought against which foreign invaders?
@@ -2656,8 +2635,8 @@ A   The Romans
 Which of the following poems is about a group of people going on a pilgrimage?
 
 A   The Canterbury Tales
-    All the world's a stage
-    A Midsummer Night's dream
+    All the worlds a stage
+    A Midsummer Nights dream
     Great Expectations
 
 How are public holidays called?
@@ -2669,7 +2648,7 @@ A   Bank Holidays
 
 How did Charles II manage to escape to Europe after his defeat in the Civil War?
 
-    Hiding in a farmer's house
+    Hiding in a farmers house
     Riding a horse
 A   Hiding in an oak tree
     Swimming
@@ -2859,9 +2838,9 @@ A   The Crimean War
 
 Which of the following monuments is located in Wiltshire?
 
-    Hadrian's Wall
-    St Paul's Cathedral
-    Nelson's Column
+    Hadrians Wall
+    St Pauls Cathedral
+    Nelsons Column
 A   Stonehenge
 
 Who was the first Archbishop of Canterbury?
@@ -2916,13 +2895,6 @@ Which of the following countries helped Britain to develop the Concorde?
     Italy
 A   France
 
-Which invention led to the development of Britain during the Industrial Revolution?
-
-    Magnetic Resonance Imaging
-A   Steam power
-    Radar
-    Hovercraft
-
 Who was the tribal leader who fought against the Romans?
 
     Columba
@@ -2930,7 +2902,7 @@ Who was the tribal leader who fought against the Romans?
     Hadrian
 A   Boudicca
 
-In 1776, which British colonies declared their independence because they demanded that there should be 'no taxation without representation'.
+In 1776, which British colonies declared their independence because they demanded that there should be no taxation without representation.
 
     North African
     Asian
@@ -2941,7 +2913,7 @@ When was England ruled by a republic and not by a monarch?
 
     When Elizabeth I died without any successor
 A   When Charles I was executed
-    When the Carta Magna restricted the king's power
+    When the Carta Magna restricted the kings power
     When kind Harold died after the Battle of Hastings
 
 Which film produced in the UK was one of the most commercially successful films of all time and one of the highest-grossing film franchises?
@@ -2998,7 +2970,7 @@ A   The Domesday Book
     The Canterbury Tales
     The Carta Magna
 
-Who led a team of scientists to 'split the atom' for the first time?
+Who led a team of scientists to split the atom for the first time?
 
     Alexander Fleming
     Alan Turing
@@ -3019,7 +2991,7 @@ Who fought in the English Civil war of 1642?
 A   The Cavaliers and the Roundheads
     The House of Fraser and the House of Stuart
 
-Which two of these forts were part of Hadrian's wall?
+Which two of these forts were part of Hadrians wall?
 
 A   Vindolanda
     Maiden Castle
@@ -3087,7 +3059,7 @@ A   After the Second World War.
     Before the First World War.
     Before the Second World War.
 
-Where is the Giant's Causeway located?
+Where is the Giants Causeway located?
 
     Scotland
     England
@@ -3173,7 +3145,7 @@ A   3,000
 
 Which historical monument did William the Conqueror build?
 
-    St Paul's Cathedral
+    St Pauls Cathedral
     The Cenotaph
     Dumfries House
 A   The White Tower
@@ -3253,7 +3225,7 @@ Which university did Sir Isaac Newton attend?
     The University of Manchester
 A   Cambridge University
     Oxford University
-    King's College London
+    Kings College London
 
 In the Crimean War, Britain fought with Turkey and France against which country?
 
@@ -3269,11 +3241,11 @@ A   Norway
 A   Denmark
     Greece
 
-How can MP's be contacted?
+How can MPs be contacted?
 
     By Letter
     By Telephone
-    Through local 'Surgeries'
+    Through local Surgeries
 A   All of the above.
 
 What type of Court would deal with family matters, breaches of contract, and divorces?
@@ -3281,26 +3253,19 @@ What type of Court would deal with family matters, breaches of contract, and div
     Crown Court
 A   County Court
 
-Which one of the following is not a British coin?
-
-    1p
-    2p
-A   75p
-    1€71
-
 Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.
 
 A   True
     False
 
-How long did 'The Hundred Years War' last?
+How long did The Hundred Years War last?
 
     16 years
     100 years
 A   116 years
     160 years.
 
-What is the 'London Eye'?
+What is the London Eye?
 
     A Bridge
     A Castle
@@ -3333,12 +3298,12 @@ Which of the following is a good way of helping your community?
     Not associating with the community.
 A   Volunteering
 
-Which one of the following is regarded as a 'Pagan Festival'?
+Which one of the following is regarded as a Pagan Festival?
 
-    April Fool's Day
+    April Fools Day
     Bonfire Night
 A   Halloween
-    Valentine's Day
+    Valentines Day
 
 During the Victorian period, the British Empire grew to cover:
 
@@ -3352,7 +3317,7 @@ What did Sir Edmond Halley successfully predict?.
 A   The return of a Comet
     The First World War
     The Second World War
-    Admiral Nelson's death.
+    Admiral Nelsons death.
 
 
 When did Queen Elizabeth II celebrate her Diamond Jubilee?
@@ -3362,7 +3327,7 @@ A   2012
     2011
     2013
 
-When did Britain recognise the American colonies' independence?
+When did Britain recognise the American colonies independence?
 
     1776
     1751
@@ -3376,14 +3341,14 @@ What do the National Insurance Contributions fund?
 A   The NHS and state pension
     The Police, NHS and Education
 
-What county is 'Maiden Castle' in?
+What county is Maiden Castle in?
 
     Wiltshire
 A   Dorset
     Lothians
     Berkshire
 
-Where can you see the 'Bayeux Tapestry' today?
+Where can you see the Bayeux Tapestry today?
 
     Scotland
     England
@@ -3453,7 +3418,7 @@ A   1833
     1807
     1821
 
-As per 2021 census, what percentage of the population in England and Wales doesn't follow a religion?
+As per 2021 census, what percentage of the population in England and Wales doesnt follow a religion?
 
     13%
     23%
@@ -3467,7 +3432,7 @@ A   1200
     1300
     1100
 
-What are the MPs who don't represent a political party called?
+What are the MPs who dont represent a political party called?
 
 A   Independents
     Sole MP
@@ -3481,14 +3446,14 @@ A   A red and white rose
     A pink rose
     A white rose
 
-What is 'Snowdon'?
+What is Snowdon?
 
     A castle
     A lake
 A   A mountain
     A garden
 
-When was the famous satirical magazine 'Punch' published?
+When was the famous satirical magazine Punch published?
 
 A   1840s
     1860s
@@ -3497,7 +3462,7 @@ A   1840s
 
 What is an example of a Criminal Offence?
 
-A   Selling Tobacco to under 18's
+A   Selling Tobacco to under 18s
     Owing Money
     Discrimination in the workplace
     Housing disputes
@@ -3563,7 +3528,7 @@ What can schools do to raise money?
     Ask the local council for extra funding
     Ask parents for money
 A   Organise events
-    Reduce teachers' wages
+    Reduce teachers wages
 
 How long does it take to give blood?
 
@@ -3684,7 +3649,7 @@ A   Pressure and lobby groups
     The Cabinet
     Chartists
 
-What is the Church of England usually known as in other countries?
+What is the Church of England usually known as in other countries, but not US and Scotland?
 
     The State Church
     The Episcopal Church
@@ -3782,7 +3747,7 @@ A   Very Poor
     Acceptable
     Average
 
-Why is it called 'The Glorious Revolution'?
+Why is it called The Glorious Revolution?
 
     Because of new technological advances
     Women were given the right to vote
@@ -3812,7 +3777,7 @@ A   Every year
 
 Which is an example of a Civil Offence?
 
-    Selling Tobacco to under 18's
+    Selling Tobacco to under 18s
     Carrying a weapon
 A   Discrimination in the workplace
     Smoking in public places
@@ -3878,7 +3843,7 @@ Where are the youth cases heard in Scotland?
     Youth Court
     Crown Court
     Sheriff Court
-A   There is a Children's Hearings System
+A   There is a Childrens Hearings System
 
 What programme helps teenagers develop their skills?
 
@@ -3950,14 +3915,14 @@ What was the population of the UK in 1998?
 A   57 million
     50 million
 
-When is St Patrick's day?
+When is St Patricks day?
 
     1st of March
     23rd of April
 A   17th of March
     30th of November
 
-Who built the Hadrian's Wall to keep out the Picts?
+Who built the Hadrians Wall to keep out the Picts?
 
 A   Emperor Hadrian
     King Alfred the Great
@@ -3999,7 +3964,7 @@ A   Coronation Street
     The Bing Bang theory
     How I met your mother
 
-Which of Henry VIII's wives were executed?
+Which of Henry VIIIs wives were executed?
 
     Catherine Parr and Anne of Cleves
 A   Anne Boleyn and Catherine Howard
@@ -4041,7 +4006,7 @@ A   The King was Appointed by God
     Reduced the power of the nobles
     Increased power of the parliament
 
-What was build as part of the UK's celebration of the new millennium?
+What was build as part of the UKs celebration of the new millennium?
 
     Big Ben
 A   The London Eye
@@ -4069,7 +4034,7 @@ A   1999
     1997
     2000
 
-When was the Giant's Causeway formed?
+When was the Giants Causeway formed?
 
     70 million years ago
     40 million years ago
@@ -4081,7 +4046,7 @@ What is an example of the Middle Ages architecture?
 A   The White Tower in the Tower of London
     The London Eye
     The O2 arena
-    The Queen's House in Greenwich
+    The Queens House in Greenwich
 
 Which Castles are in use to this day?
 
@@ -4134,7 +4099,7 @@ A   5 days
 
 What did the Magna Carta do?
 
-A   Restricted King's power
+A   Restricted Kings power
     Introduced Christianity
     Allowed to collect taxes
     Introduced Democracy
@@ -4415,7 +4380,7 @@ A   Castles and cathedrals
     Skyscrapers
     Townhouses
 
-Henry VIII's third wife, Jane Seymour, gave Henry the heir to the throne that he was looking for.
+Henry VIIIs third wife, Jane Seymour, gave Henry the heir to the throne that he was looking for.
 
     False.
 A   True.
@@ -4454,7 +4419,7 @@ William Beverage, Liberal MP, is best known for what?
     Creating the first fizzy beverage
 A   The Social Insurance and Allied Services Report
 
-What is the distance between Land's End and John O'Groats?
+What is the distance between Lands End and John OGroats?
 
 A   1,400 kilometres
     140 kilometres
@@ -4510,7 +4475,7 @@ A   A form of plague
     Mass genocide
     Mass suicide
 
-Before 1215 the King's power was absolute, it was only after 1215 that the King (John) was forced by his noblemen to agree to some of their requests.
+Before 1215 the Kings power was absolute, it was only after 1215 that the King (John) was forced by his noblemen to agree to some of their requests.
 
     False.
 A   True.
@@ -4550,7 +4515,7 @@ What did Alexander Fleming achieve?
     He created toothpaste
 A   He discovered penicillin
 
-Who composed 'The Planets'?
+Who composed The Planets?
 
     Edward Elgar
     George Handel
@@ -4659,7 +4624,7 @@ Which court usually deals with serious criminal cases in Scotland?
 A   The Sheriff Court
     The Crown Court
     The High Court
-    The Magistrates’ Court
+    The Magistrates Court
 
 When did Alexander Fleming win the Nobel Prize in medicine for the discovery of the penicillin?
 
@@ -4675,7 +4640,7 @@ What is Sir Jackie Stewart famous for?
 A   He won the Formula 1 world championship three times
     He won gold medals in rowing in five consecutive Olympic Games
 
-When did Britain and France develop the world’s only supersonic commercial airliner known as ‘The Concorde’?
+When did Britain and France develop the worlds only supersonic commercial airliner known as The Concorde?
 
     1970s
     1950s
