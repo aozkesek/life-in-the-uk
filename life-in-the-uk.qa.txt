@@ -4567,11 +4567,6 @@ A   Whigs
     Nationalist
 A   Tories
 
-People lived in the roundhouses and buried their dead in tombs, round barrows, during the Bronze Age.
-
-A   True
-    False
-
 The public can listen to debates in both HoC and HoL from public galeries.
 
     False

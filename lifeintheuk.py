@@ -213,7 +213,7 @@ def __lituk_distance(qas):
 	i = 0
 	sqas = sorted(list(qas))
 	for q in sqas:
-		print(q)
+		print(q[:-1])
 		i = i + 1
 		# skip the ones we already looked in the previous iteration
 		subqas = sqas[i:]
@@ -221,7 +221,7 @@ def __lituk_distance(qas):
 			res = td.hamming(q,t)
 			# a score of 1 is 100% same, the bigger result the different
 			if res < 15:
-				print("\t", res, t)
+				print("\t", res, t[:-1])
 
 if __name__ == "__main__":
 	import sys
@@ -241,7 +241,7 @@ if __name__ == "__main__":
 			__lituk_print(qas, qi)
 		elif is_dump:
 			for q in sorted(list(qas)):
-				print(q)
+				print(q[:-1])
 		elif is_dist:
 			__lituk_distance(qas)
 		elif is_cont:
