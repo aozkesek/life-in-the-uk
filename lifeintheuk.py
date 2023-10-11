@@ -248,7 +248,10 @@ if __name__ == "__main__":
 			__lituk_test(qas, qi, prv)
 		else:
 			print("usage:\n\n\tpython lifeintheuk.py [print|dump|dist]")
+		
+		print("\ndone.")
 		sys.exit(0)
 			
 	__lituk_test(qas, qi, prv)
+	print("\ndone.")
 	

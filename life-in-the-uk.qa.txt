@@ -89,13 +89,6 @@ How often are the General Elections held?
 A   Every 5 years
     Every 3 years
 
-When did the Roman army leave Britain?
-
-    AD 630
-    AD 100
-    AD 43
-A   AD 410
-
 Who was one of the founders of Englands naval tradition?
 
     Oliver Cromwell
@@ -103,7 +96,7 @@ A   Sir Francis Drake
     William Shakespeare
     King James
 
-What marked the beginning of "constitutional monarchy"?
+What marked the beginning of constitutional monarchy?
 
     The Restoration
 A   The Glorious Revolution
@@ -138,7 +131,7 @@ Who is the head of the Church of England?
 A   The Monarch
     The Duke of Edinburgh
 
-What proportion of the population died because of the Black Death?
+What proportion of the population died because of the Black Death, a form of plague, in 1348 in middle age?
 
     One fourth
 A   One third
@@ -193,13 +186,6 @@ What created the United Kingdom of Great Britain and Ireland?
     The Great Union
     The Act for the governments
 A   The Act of Union
-
-Which charity works to preserve important buildings?
-
-    Age UK
-    NSPCC
-A   The National Trust
-    The Red Cross
 
 What did the Chartists campaign for?
 
@@ -257,7 +243,7 @@ A   1st of March
     17th of March
     23rd of April
 
-Which of these is a famous classical music event in the UK?
+Which of these is a famous 8 weeks classical music event in the summer time in the UK?
 
     Glastonbury Festival
     Creamfields
@@ -292,7 +278,7 @@ A   Crystal Palace
     Gold Palace
     Dream Palace
 
-Who built the Tower of London?
+Who built White Tower in the Tower of London?
 
 A   William the Conqueror
     Henry VII
@@ -514,10 +500,10 @@ A   31st of October
     30th of November
     31st of November
 
-Who defeated Napoleon at the Battle of Waterloo?
+Who defeated Napoleon at the Battle of Waterloo, the last battle between France and England?
 
     Nelson
-A   The Duke of Wellington
+A   The Duke of Wellington -Iron Duke-
     Henry VII
     Louis XIV
 
@@ -703,13 +689,6 @@ A   1415
     1613
     1716
 
-Who established the Church of England?
-
-    The Pope
-    Henry VII
-A   Henry VIII
-    St George
-
 Which of these is not a music festival?
 
     V festival
@@ -779,13 +758,6 @@ When did English become the official language for documents?
 A   1400
     1502
     1554
-
-When were the women given the right to vote at the same age as men?
-
-    1969
-A   1928
-    1918
-    1957
 
 When did the Parliament begin developing into the institution it is now?
 
@@ -946,20 +918,6 @@ A   Julius Caesar
     Canute
     William, the Duke of Normandy
 
-Under which king did the Anglo-Saxon kingdoms in England unite to defeat the Vikings?
-
-    William of Orange
-A   King Alfred the Great
-    Henry VIII
-    Robert the Bruce
-
-When was the Magna Carta created?
-
-    1514
-A   1215
-    1415
-    1314
-
 Which of the following plays was written by William Shakespeare?
 
     Pride and Prejudice
@@ -1049,13 +1007,6 @@ Where is Big Ben located?
     Trafalgar Square
 A   The Houses of the Parliament
 
-When were men and women given the right to vote at the age of 21?
-
-    1918
-    1903
-A   1928
-    1923
-
 Where is the UK geographically located?
 
     South west of Europe
@@ -1103,7 +1054,7 @@ Who was the captain of the English football team that won the World Cup in 1966?
     Sir Ian Botham
 A   Bobby Moore
 
-When did the English defeat the Spanish Armada?
+When did the English defeat the Spanish Armada which is a large fleet of ships?
 
     1466
     1066
@@ -1176,13 +1127,6 @@ Who was given the title of Lord Protector?
     Winston Churchill
 A   Oliver Cromwell
 
-What are the 40 days before Easter called?
-
-    Diwali
-A   Lent
-    Hannukah
-    Vaisakhi
-
 Which of the following is a fundamental principle of British life?
 
     Communism
@@ -1244,13 +1188,6 @@ A   Britain
     Germany
 A   France
 
-Where is Snowdonia located?
-
-    Scotland
-A   Wales
-    England
-    Northern Ireland
-
 Who wrote Sherlock Holmes?
 
     Evelyn Waugh
@@ -1258,7 +1195,7 @@ Who wrote Sherlock Holmes?
     Graham Greene
 A   Sir Arthur Conan Doyle
 
-Which country was invaded by Germany in 1939?
+Which country was invaded by Germany in 1939 and started WWII?
 
     Austria
     Italy
@@ -1298,13 +1235,6 @@ What led the American colonies to want their independence from Britain?
 A   The British government wanted to tax them
     There were not enough jobs for the local people
 
-When did the Black Death take place?
-
-    The Golden Age
-    The Stone Age
-A   The Middle Ages
-    The Iron Age
-
 Who was the leader of the suffragettes, the group that campaigned for womens rights to vote?
 
     Queen Victoria
@@ -1332,13 +1262,6 @@ Which festival celebrates the end of Ramadan, when Muslims have fasted for a mon
     Vaisakhi
     Eid ul Adha
 A   Eid al-Fitr
-
-What was the last battle between Great Britain and France?
-
-    The Battle of Trafalgar
-A   The Battle of Waterloo
-    The Battle of Hastings
-    Battle of Agincourt
 
 Which flower is associated with Wales?
 
@@ -1392,13 +1315,6 @@ A   The House of Lords
 A   House of Commons
     House of Fraser
 
-When did women get the right to vote at the same age as men?
-
-    1918
-A   1928
-    1938
-    1948
-
 What sort of event is the Grand National?
 
     Rugby
@@ -1446,13 +1362,6 @@ Racial crime and smoking in public places are examples of?
     Civil offences
 A   Criminal offences
 
-What type of character was played by Charlie Chaplin?
-
-    A superhero
-A   A tramp
-    A scientific genius
-    A bandit
-
 You have to be at least 21 years old to stand as MP?
 
     True
@@ -1464,13 +1373,6 @@ Who developed the radar?
     Sir Frank Whittle
     Sir Christopher Cockrell
 A   Sir Robert Watson-Watt
-
-Where is the official home of the Prime Minister?
-
-    18 Oxford Street
-    Buckingham Palace
-    Windsor Castle
-A   10 Downing Street
 
 When does Easter take place?
 
@@ -1585,13 +1487,6 @@ A   The Glorious Revolution
     The Great Depression
     The Blitz
 
-What sort of charity is Friends of the Earth?
-
-A   An environmental charity
-    A medical research charity
-    A charity working with pets
-    A charity working with older people
-
 If a husband forces his wife to have sex he can be charged with rape?
 
 A   True
@@ -1611,26 +1506,12 @@ Which novel written by JRR Tolkien was voted the countrys best-loved novel in 20
     Pride and Prejudice
 A   The Lord of the Rings
 
-When did Germany invade Poland?
-
-    1942
-    1941
-    1940
-A   1939
-
 Who made the first coins to be minted in Britain?
 
     The people of the Stone Age
     The Anglo-saxons
 A   The people of the Iron Age
     The Romans
-
-Who built the Tower of London?
-
-A   William the Conqueror
-    Queen Victoria
-    Queen Elizabeth I
-    Oliver Cromwell
 
 There are 15 national parks in England, Wales and Scotland. What are national parks?
 
@@ -1712,20 +1593,6 @@ A   The Conservative Party
     The Labour Party
 A   The Liberal Democrats Party
 
-Who established the Church of England?
-
-A   Henry VIII
-    Oliver Cromwell
-    Winston Churchill
-    William of Orange
-
-In 1348, one third of the population in England, Wales and Scotland died as a result of which disease?
-
-    Measles
-    Leprosy
-    Smallpox
-A   The Black Death
-
 Haggis is a traditional food from which area?
 
     Wales
@@ -1791,11 +1658,6 @@ What was the biggest source of employment during the 18th century?
     Teaching
     Aircraft industry
 A   Manufacturing
-
-In 1314 the Scottish, led by Robert the Bruce, defeated the English at the battle of Bannockburn, and Scotland remained unconquered by the English?
-
-A   True
-    False
 
 Which of the following is an example of criminal offence?
 
@@ -1900,26 +1762,12 @@ How many members form a jury in Scotland?
 A   15
     20
 
-What is known as Lent?
-
-    The 40 days before Christmas
-    The 40 days after Easter
-A   The 40 days before Easter
-    The 40 days after Christmas
-
 When was the last successful foreign invasion of England?
 
     1415
     1314
 A   1066
     1200
-
-World War II started as a result of Germany invading which country?
-
-    France
-    Russia
-A   Poland
-    Austria
 
 Which flower is associated with Scotland?
 
@@ -1934,13 +1782,6 @@ Which of the following is a responsibility of the Home Secretary?
 A   Crime
     Education
     Defence
-
-What did Francis Crick discover?
-
-    The MRI (magnetic resonance imaging) scanner
-    The jet engine
-    The IVF (in-vitro fertilisation) therapy
-A   The structure of the DNA molecule
 
 Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK?
 
@@ -1980,7 +1821,7 @@ A responsibility of the MPs is to represent everyone in their _______?
     District
 A   Constituency
 
-What was achieved with the Magna Carta?
+What was achieved with the Magna Carta in 1215?
 
 A   It restricted the Kings power
     It increased the Kings power
@@ -2005,13 +1846,6 @@ A   St Helena
     Solomon Islands
     Mauritius
 A   The Falkland Islands
-
-Who did the English defeat in 1588?
-
-    The Normands
-    The Romans
-A   The Spanish Armada
-    The Saxons
 
 Who designed the Cenotaph?
 
@@ -2062,11 +1896,6 @@ Which flower is associated with Northern Ireland?
 A   The shamrock
     The rose
 
-The last battle between Britain and France was the battle of Waterloo.
-
-A   True
-    False
-
 100 is the highest value note in circulation in the UK.
 
     True
@@ -2085,13 +1914,6 @@ Why is 1928 an important year in womens voting history?
     Women were given the right to vote at the age of 25.
     Women were given the right to vote at the age of 30.
 A   Women were given the right to vote at the age of 21, the same as men.
-
-What does Hogmanay refer to?
-
-    Christmas Day in Wales
-A   New Years Eve in Scotland
-    Christmas Day in Scotland
-    New Years Eve in Wales
 
 What is the capital city of Northern Ireland?
 
@@ -2138,7 +1960,7 @@ Who was Admiral Nelson?
     One of the tribal leaders who fought against the Romans
     A British officer in charge of the British army at the Battle of Waterloo
     A British general who established the authority of the English Parliament
-A   A British officer in charge of the British fleet at the Battle of Trafalgar against the Spanish fleet
+A   A British officer in charge of the British fleet at the Battle of Trafalgar in 1805 against the Spanish and French fleets
 
 During the Middle Ages, who were the serfs?
 
@@ -2151,13 +1973,6 @@ MPs can only be contacted by post.
 
     True
 A   False
-
-What movement challenged the authority of the Pope?
-
-    The Swinging Sixties
-A   The Reformation
-    The Suffragettes
-    The Enlightenment
 
 What English King introduced the Domesday Book?
 
@@ -2272,45 +2087,12 @@ Where does the Scottish Grand National take place?
 A   Ayr
     St Andrews
 
-The laws passed after the Glorious Revolution marked the beginning of the ______.
-
-A   Constitutional monarchy
-    Constitutional republic
-
-During the reign of Elizabeth I, a large fleet of ships was sent to England to conquer the country and to restore Catholicism, where did this fleet come from?
-
-    France
-    Portugal
-A   Spain
-    Italy
-
 What did the Habeas Corpus Act introduce?
 
 A   That every prisoner has a right to a court hearing
     A salary for members of Parliament (MPs)
     Financial help for the unemployed, old-age pensions and free school meals
     Measures to improve the conditions of workers
-
-What did Emmeline Pankhurst fight for?
-
-    The right to liberty and security
-A   The right for women to vote
-    Freedom of expression
-    The right to a fair trial
-
-What is "the Proms"?
-
-    An annual event that gives awards in a range of categories, such as best British group and best British solo artist
-    An annual cultural festival which includes music, dance, art and original performances largely in Welsh
-A   An eight-week summer season of daily orchestral classical music concerts
-    Light-hearted plays with music and comedy
-
-When did the WWI come to an end?
-
-    In 1922
-A   In 1918
-    In 1945
-    In 1943
 
 Who built a wall in the north of England to keep out the Picts (ancestors of the Scottish people)?
 
@@ -2325,11 +2107,6 @@ A   The University of Oxford
 A   The University of Cambridge
     The University of Manchester
     The University of Warwick
-
-Does Britain have a written constitution?
-
-    Yes
-A   No
 
 Is St Helena part of the UK?
 
@@ -2385,13 +2162,6 @@ A   Anglo-Saxon
     Proto-Celtic
 A   Norman French
 
-Where did the Spanish Armada come from?
-
-    France
-A   Spain
-    Italy
-    South America
-
 What is the name of the War Memorial located in Whitehall?
 
     Dumfries
@@ -2445,13 +2215,6 @@ When were the first coins in Britain made?
     The Bronze Age
 A   The Iron Age
     The Middle Ages
-
-Who was Emmeline Pankhurst?
-
-A   A suffragette
-    A nurse
-    A doctor
-    A scientist
 
 Who did Britain fight against in the Crimean War?
 
@@ -2531,14 +2294,7 @@ MPs can only be contacted at their office in the House of Commons.
     True
 A   False
 
-What is the day when jokes are published in newspapers and telecast on TV?
-
-A   April Fools Day
-    Boxing Day
-    Halloween
-    Valentines Day
-
-Which Scottish king defeated the English at the Battle of Bannockburn?
+Which Scottish king defeated the English at the Battle of Bannockburn in 1314?
 
     King Charles I
     King James I
@@ -2562,7 +2318,7 @@ A   They are chosen on merit and are politically neutral
 What is known as the "Dunkirk spirit"?
 
     When the German air force bombed London and other British cities at night-time
-A   The evacuation of Allied soldiers from France during World War II
+A   The evacuation of 300000 Allied soldiers from France during World War II
     When new social classes appeared after the Black Death
     The period when many refugees called Huguenots came from France
 
@@ -2639,21 +2395,7 @@ A   The Canterbury Tales
     A Midsummer Nights dream
     Great Expectations
 
-How are public holidays called?
-
-A   Bank Holidays
-    Workers Holidays
-    Business Holidays
-    Summer Holidays
-
-How did Charles II manage to escape to Europe after his defeat in the Civil War?
-
-    Hiding in a farmers house
-    Riding a horse
-A   Hiding in an oak tree
-    Swimming
-
-Who defeated the Vikings?
+Who united the kingdoms in England and then defeated the Vikings?
 
     Harold
     Edward I of England
@@ -2666,13 +2408,6 @@ Who was William Caxton?
 A   The first person in England to print books using a printing press
     The first person to sail singlehanded around the world
     The inventor of the television
-
-Where do Beefeaters serve as tour guides?
-
-    The Houses of the Parliament
-A   The Tower of London
-    The O2
-    The Big Ben
 
 During the rebellion of the clans in Scotland, Bonnie Prince Charlie was supported by clansmen from which Scottish region?
 
@@ -2711,13 +2446,6 @@ Which of the following poets was inspired by nature?
     Wilfred Owen
     Siegfried Sassoon
 A   William Wordsworth
-
-Against which country did Britain fight at the Battle of Waterloo?
-
-    Germany
-    Italy
-A   France
-    Spain
 
 Who was William Wilberforce?
 
@@ -2794,20 +2522,6 @@ A   Economics
     Science
     Engineering
 
-When is Hogmanay celebrated?
-
-    25th of December
-    2nd of January
-    1st of January
-A   31st of December
-
-Proceedings in Parliament are broadcast on television and published in official reports known as:
-
-    Canvassing
-A   Hansard
-    Cabinets
-    Domesday Book
-
 Which of the following is a rugby competition?
 
     The Scottish Grand National
@@ -2882,11 +2596,6 @@ A   To link the factories to towns and cities and to the ports
     To make space for the large fleet of British ships
     To increase the number of water mills in the UK
     To increase the amount of water in towns and cities
-
-Are civil servants appointed by the government?
-
-    Yes
-A   No
 
 Which of the following countries helped Britain to develop the Concorde?
 
@@ -3087,27 +2796,6 @@ A   James Bond
     The Lord of the Rings
     Superman
 
-Who can hear cases in Youth Courts in England, Wales and Northern Ireland (two answers)?
-
-A   Specially trained magistrates.
-    Social workers.
-A   District judges.
-    Members of the public.
-
-Who came from the Netherlands to become the British monarch?
-
-    William II
-A   Charles II
-    Edward II
-    George II
-
-Who can apply for the National Citizen Service programme?
-
-    14- and 15-year-olds
-    15- and 16-year-olds
-A   16- and 17-year-olds
-    17- and 18-year-olds
-
 Nick Park has won four Oscars for his animated films, including three for films featuring:
 
     Chariots of Fire
@@ -3142,13 +2830,6 @@ A   3,000
     5,000
     8,000
     10,000
-
-Which historical monument did William the Conqueror build?
-
-    St Pauls Cathedral
-    The Cenotaph
-    Dumfries House
-A   The White Tower
 
 Who became Prime Minister after Northern Ireland Assembly and played an important part in the Northern Ireland peace process?
 
@@ -3191,13 +2872,6 @@ What is the Commonwealth?
     A group of European and North American countries that have agreed to help each other if they come under attack.
 A   An association of countries that support each other and work together towards shared goals in democracy and development.
     An international organization that aims to prevent war and promote international peace and security.
-
-Under which name was the movement of opinion against the authority of the Pope during the times of Henry VIII known?
-
-    The Spanish Inquisition
-    The Holy Wars
-A   The Reformation
-    The Enlightenment
 
 What did Isaac Newton discover?
 
@@ -3362,7 +3036,7 @@ Who appoints the members of the Cabinet?
     The people of the UK
 A   The Prime Minister
 
-When is Vaisakhi celebrated?
+When is Vaisakhi, Hindus Sikhsand Punjabi Muslims spring -harvest- festival celebrated?
 
     In June
     In May
@@ -3396,13 +3070,6 @@ Who designed the Dumfries House in Scotland?
     Inigo Jones
 A   Robert Adam
     Sir Edwin Lutyens
-
-Who tells visitors about the history of the Tower of London?
-
-    London Guides
-    History graduates
-A   Beefeaters
-    Instructors
 
 When was Charles I executed?
 
@@ -3473,13 +3140,6 @@ When did the first professional football clubs form?
     20th century
     17th century
 A   19th century
-
-Ulster fry is a traditional food of which country?
-
-A   Northern Ireland
-    Scotland
-    Wales
-    England
 
 How many member states does the Commonwealth have?
 
@@ -3635,13 +3295,6 @@ A   John Barbour
     Kevin MacAlpin
     Kevin MacDonald
 
-What country is Swansea in?
-
-    England
-A   Wales
-    Northern Ireland
-    Scotland
-
 What organisations try to influence government policy?
 
     Quakers
@@ -3684,7 +3337,7 @@ A   Every man to have a vote
     Open ballots
     Anyone to be able to stand as an MP
 
-Which country(s) did Britain fight against during the Battle of Trafalgar?
+Which country(s) did Britain fight against during the Battle of Trafalgar in 1805?
 
     France and the Netherlands
     Only the Netherlands
@@ -3725,20 +3378,6 @@ Which of these venues is located in Greenwich?
     The SECC
     Auditorio de Tenerife
 A   The O2
-
-What event is known as the evacuation of 300,000 people from the beaches?
-
-    The Battle of Britain
-A   The Dunkirk spirit
-    D-Day
-    The Blitz spirit
-
-When did the English defeat the Spanish Armada?
-
-    1584
-A   1588
-    1600
-    1597
 
 What were the working conditions like during the Industrial Revolution?
 
@@ -3845,7 +3484,7 @@ Where are the youth cases heard in Scotland?
     Sheriff Court
 A   There is a Childrens Hearings System
 
-What programme helps teenagers develop their skills?
+What programme helps teenagers, 16-17 years old, develop their skills?
 
     Youth Opportunities
     The Teenage Programme
@@ -4076,13 +3715,6 @@ Which General remains a controversial figure in Ireland?
 A   Oliver Cromwell
     Francis Drake
 
-Who was the Iron Duke that defeated the Emperor Napoleon?
-
-    Admiral Nelson
-A   Wellington
-    Churchill
-    Sir Christopher Wren
-
 When did the development of a free press happen?
 
     1805
@@ -4096,20 +3728,6 @@ A   5 days
     8 days
     3 days
     7 days
-
-What did the Magna Carta do?
-
-A   Restricted Kings power
-    Introduced Christianity
-    Allowed to collect taxes
-    Introduced Democracy
-
-Who led the Scottish Army during the Battle of Bannockburn?
-
-    Edward I
-A   Robert the Bruce
-    King Alfred the Great
-    William the Conqueror
 
 How many times did Sir Jackie Stewart win the Formula 1 championship?
 
@@ -4166,13 +3784,6 @@ A   Northern Ireland Assembly
     Scottish Parliament
     Welsh Assembly
     Westminster
-
-What was the Spanish Armada?
-
-A   A large fleet of ships
-    A large army of people
-    A French and Spanish army
-    An illness
 
 During Slave trade, where did slaves primarily come from?
 
@@ -4264,13 +3875,6 @@ A   Freedom of belief and religion
     Untaxed income
     Free TV license
     Luxurious Life
-
-The Battle of Hastings is commemorated by which piece of art?
-
-A   The Bayeux Tapestry
-    The Last Supper
-    The Mona Lisa
-    View of the Battle of Hastings
 
 King Richard III was killed in battle at Bosworth Field.
 
@@ -4468,13 +4072,6 @@ A   Grimsby and Scunthorpe
     New Danelaw and Exeter
     None of the above
 
-What was the Black Death?
-
-A   A form of plague
-    A virus
-    Mass genocide
-    Mass suicide
-
 Before 1215 the Kings power was absolute, it was only after 1215 that the King (John) was forced by his noblemen to agree to some of their requests.
 
     False.
@@ -4513,7 +4110,7 @@ What did Alexander Fleming achieve?
     He created the atomic bomb
     He created the pie
     He created toothpaste
-A   He discovered penicillin
+A   He discovered penicillin in 1945
 
 Who composed The Planets?
 
@@ -4600,13 +4197,6 @@ A   King Edward I of England
     King Henry V
     William III of England
 
-Who was known as the Iron Duke?
-
-    The Duke of Edinburgh
-    The Duke of Normandy
-A   The Duke of Wellington
-    The Duke of Lancaster
-
 Which of the following is NOT a British invention?
 
     The World Wide Web
@@ -4620,13 +4210,6 @@ A   The Sheriff Court
     The Crown Court
     The High Court
     The Magistrates Court
-
-When did Alexander Fleming win the Nobel Prize in medicine for the discovery of the penicillin?
-
-    In 1935
-A   In 1945
-    In 1950
-    In 1952
 
 What is Sir Jackie Stewart famous for?
 
@@ -4675,7 +4258,7 @@ The Brith Awards is an event where musicians ang music groups are awarded.
 A   True
     False
 
-The Restoration refers to the re-establishment of the monarchy in 1660, when Charles II return from exile after being invited back by the parliment.
+The Restoration refers to the re-establishment of the monarchy in 1660, when Charles II, King of Scotland, return from exile after being invited back by the parliment.
 
 A   True
     False
@@ -4686,11 +4269,6 @@ A   True
     False
 
 Wales united with England during the the reign of Henry VIII.
-
-A   True
-    False
-
-Charles, King of Scotlond, was restored as King Charles II of England in 1660.
 
 A   True
     False
